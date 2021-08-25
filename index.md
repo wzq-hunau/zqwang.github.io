@@ -1,18 +1,18 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-Test
+# Education
+- Hunan Agricultural University College of Information and Intelligent Science and Technology
+  - Computer Science and Technology (Premium Class)  Bachelor
+- Honors:  
+  - Outstanding Graduates of Hunan Province   
+  - Excellent graduation thesis of Hunan Agricultural University
+- Funds:
+  - Baidu-Ministry of Education Innovation Venture Fund 2019
+  - Google-Ministry of Education Innovation Venture Fund 2019
+  - Hunan Agricultural University Innovation Venture Fund 2018
+- Scholarships:
+  - First-class Scholarships of Hongcheng Science and Technology in 2020
 
 ## Header 2
 
