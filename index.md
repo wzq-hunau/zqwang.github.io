@@ -60,6 +60,4 @@ Research at the intersection of computer vision and plant science under the supe
 #### Certifications:
 * Java Oracle Certified Professional
 * Huawei HCIA-Kunpeng Application Developer
-#### Sports:
-* ping-pong
 
