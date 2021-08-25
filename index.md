@@ -36,117 +36,31 @@ layout: default
 
 # RESEARCH EXPERIENCE
 
-#### Yang Jie's Laboratory, School of Medicine, Zhejiang University-2021.7-
+#### Yang Jie's Laboratory, School of Medicine, Zhejiang University-2021.07-
 - Working at the intersection of medical and artificial intelligence under the supervision of Professor Prof. Jie Yang, my main research interests are in natural language processing based on medical texts, including work on named entity recognition and embedding of external knowledge sources.
 
-#### Research Office of Artificial Intelligence and Intelligent Agriculture, Hunan Agricultural University-2017.9-2021.6
+#### Research Office of Artificial Intelligence and Intelligent Agriculture, Hunan Agricultural University-2017.09-2021.06
 - Under the supervision of Prof. Yiming Chen, I am engaged in research related to deep learning and computer vision. My research interests are in computer vision based on deep learning, focusing on classification, detection and segmentation models therein and applying them to document image detection and analysis tasks.
   - research achievement
     -   Research and Application of Table Detection Algorithm Based on Transformer-Excellent Graduation Thesis of Hunan Agricultural University
     -   PDF text information structuring engine based on deep learning
 
-#### Xiaoxiang Research Institute of Big Data-2018.9-2020.12
+#### Xiaoxiang Research Institute of Big Data-2018.09-2020.12
 - Research at the intersection of computer vision and plant science under the supervision of Dr. Xu Jun and Mr. Yi Wukun, focusing on the classification of bamboo species and vine man cross-sectional images and further use of detection and segmentation algorithms to calculate morphological parameters: vascular bundles (water transport channels) and tissue ratios (support cells attached around pipes) in bamboo species.
   - research achievement
     -   Recognition and detection of vascular bundles based on deep learning (International Center for Bamboo and Rattan-National Natural Science Foundation of China)
-### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+# LEADSHIP EXPERIENCE
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+####  Artificial Intelligence Association of Hunan Agricultural University-2019.06-2020.06
+- Created the Hunan Agricultural University Artificial Intelligence Association and served as the president.
+- Organized the association’s students to participate in various competitions. Currently, it has obtained a number of national, provincial and municipal redundancy.
+- Organize bilateral elections for corporate internships to provide employment opportunities for members of the association
 
-#### Header 4
+# MISCELLANEOUS
+#### Certifications:
+- Java Oracle Certified Professional
+- Huawei HCIA-Kunpeng Application Developer
+#### Sports:
+- ping-pong
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
