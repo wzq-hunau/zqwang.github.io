@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-### Definition lists can be used with HTML syntax.
 
 <dl>
 <font size=5>Wang Zeqiang</font>
 
 <font size=5>王泽强</font>
   
-<dt>Research Assistant       Yang Jie's Laboratory, School of Medicine, Zhejiang University</dt>
+<dt>Research Assistant</dt>
+<dt>Yang Jie's Laboratory, School of Medicine, Zhejiang University</dt>
 <dt>Mail: wzq99@zju.edu.cn</dt>
 </dl>
 # Education
@@ -34,12 +34,21 @@ layout: default
     - Undergraduate Group Winner Award
 
 
-## Header 2
+# RESEARCH EXPERIENCE
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+#### Yang Jie's Laboratory, School of Medicine, Zhejiang University-2021.7-
+- Working at the intersection of medical and artificial intelligence under the supervision of Professor Prof. Jie Yang, my main research interests are in natural language processing based on medical texts, including work on named entity recognition and embedding of external knowledge sources.
 
+#### Research Office of Artificial Intelligence and Intelligent Agriculture, Hunan Agricultural University-2017.9-2021.6
+- Under the supervision of Prof. Yiming Chen, I am engaged in research related to deep learning and computer vision. My research interests are in computer vision based on deep learning, focusing on classification, detection and segmentation models therein and applying them to document image detection and analysis tasks.
+  - research achievement
+    -   Research and Application of Table Detection Algorithm Based on Transformer-Excellent Graduation Thesis of Hunan Agricultural University
+    -   PDF text information structuring engine based on deep learning
+
+#### Xiaoxiang Research Institute of Big Data-2018.9-2020.12
+- Research at the intersection of computer vision and plant science under the supervision of Dr. Xu Jun and Mr. Yi Wukun, focusing on the classification of bamboo species and vine man cross-sectional images and further use of detection and segmentation algorithms to calculate morphological parameters: vascular bundles (water transport channels) and tissue ratios (support cells attached around pipes) in bamboo species.
+  - research achievement
+    -   Recognition and detection of vascular bundles based on deep learning (International Center for Bamboo and Rattan-National Natural Science Foundation of China)
 ### Header 3
 
 ```js
