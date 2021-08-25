@@ -1,6 +1,16 @@
 ---
 layout: default
 ---
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<font size=5>Wang Zeqiang</font>
+
+<font size=5>王泽强</font>
+  
+<dt>Research Assistant       Yang Jie's Laboratory, School of Medicine, Zhejiang University</dt>
+<dt>Mail: wzq99@zju.edu.cn</dt>
+</dl>
 # Education
 - Hunan Agricultural University College of Information and Intelligent Science and Technology
   - Computer Science and Technology (Premium Class)  Bachelor
@@ -13,6 +23,16 @@ layout: default
   - Hunan Agricultural University Innovation Venture Fund 2018
 - Scholarships:
   - First-class Scholarships of Hongcheng Science and Technology in 2020
+- Awards:
+  - AIIA Cup in 2019,2020 (China Artificial Intelligence Industry Development Alliance)
+    - National Winner Award, Hunan Province First Prize
+  - Beidou Cup in 2020 (China Satellite Navigation Annual Conference)
+    - Central South Division Third Prize 
+  - Lugu Intelligent Navigation Competition in 2019 (Hunan Provincial Department of Education)
+    - Hunan Province Second Prize
+  - Changsha  Science and Technology Innovation Competition in 2020 (Changsha City Government)
+    - Undergraduate Group Winner Award
+
 
 ## Header 2
 
