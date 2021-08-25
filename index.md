@@ -10,6 +10,7 @@ layout: default
 <dt>Research Assistant</dt>
 <dt>Yang Jie's Laboratory, School of Medicine, Zhejiang University</dt>
 <dt>Mail: wzq99@zju.edu.cn</dt>
+<dt>Location:Changsha/Hangzhou</dt>  
 </dl>
 # Education
 - Hunan Agricultural University College of Information and Intelligent Science and Technology
@@ -46,7 +47,7 @@ Under the supervision of Prof. Yiming Chen, I am engaged in research related to 
 
 #### Xiaoxiang Research Institute of Big Data-2018.09-2020.12
 Research at the intersection of computer vision and plant science under the supervision of Dr. Xu Jun and Mr. Yi Wukun, focusing on the classification of bamboo species and vine man cross-sectional images and further use of detection and segmentation algorithms to calculate morphological parameters: vascular bundles (water transport channels) and tissue ratios (support cells attached around pipes) in bamboo species.
-##### research achievement
+##### research project
   - Recognition and detection of vascular bundles based on deep learning (International Center for Bamboo and Rattan-National Natural Science Foundation of China)
 
 # LEADSHIP EXPERIENCE
