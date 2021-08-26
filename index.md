@@ -9,8 +9,10 @@ layout: default
   
 <dt>Research Assistant</dt>
 <dt>Yang Jie's Laboratory, School of Medicine, Zhejiang University</dt>
-<dt>Mail: wzq99@zju.edu.cn</dt>
-<dt>Location:Changsha/Hangzhou</dt>  
+<dt>Mail: </dt>
+  <di>wzq99@zju.edu.cn</di>
+<dt>Contact:</dt>
+  <di>310030, Zijingang Campus, Zhejiang University, No. 866 Yuhangtang Road, West Lake District, Hangzhou, Zhejiang Province</di>
 </dl>
 # Education
 - Hunan Agricultural University College of Information and Intelligent Science and Technology
