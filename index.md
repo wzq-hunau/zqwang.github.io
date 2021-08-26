@@ -48,7 +48,7 @@ Under the supervision of Prof. Yiming Chen, I am engaged in research related to 
   - PDF text information structuring engine based on deep learning
 
 #### Xiaoxiang Research Institute of Big Data-2018.09-2020.12
-Research at the intersection of computer vision and plant science under the supervision of Prof. Xu Jun and Mr. Yi Wukun, focusing on the classification of bamboo species and vine man cross-sectional images and further use of detection and segmentation algorithms to calculate morphological parameters: vascular bundles (water transport channels) and tissue ratios (support cells attached around pipes) in bamboo species.
+Research at the intersection of computer vision and plant science under the supervision of Prof. Jun Xu and Mr. Wukun Yi, focusing on the classification of bamboo species and vine man cross-sectional images and further use of detection and segmentation algorithms to calculate morphological parameters: vascular bundles (water transport channels) and tissue ratios (support cells attached around pipes) in bamboo species.
 ##### research project
   - Recognition and detection of vascular bundles based on deep learning (International Center for Bamboo and Rattan-National Natural Science Foundation of China)
 
