@@ -7,7 +7,6 @@ layout: default
 
 <font size=5>王泽强</font>
   
-<dt>Research Assistant</dt>
 <dt>Yang Jie's Laboratory, School of Medicine, Zhejiang University</dt>
 <dt>Mail: </dt>
   <di>wzq99@zju.edu.cn</di>
