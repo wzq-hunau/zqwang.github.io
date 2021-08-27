@@ -16,7 +16,7 @@ layout: default
 </dl>
 # Education
 
-#### B.S,Computer Science and Technology (Premium Class), Hunan Agricultural University 2017-2021
+#### B.S,Department of Computer Science and Technology (Premium Class), Hunan Agricultural University 2017-2021
 - **Honors**:   
   - Outstanding Graduates of Hunan Province   
   - Excellent graduation thesis of Hunan Agricultural University
