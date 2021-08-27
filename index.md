@@ -16,8 +16,7 @@ layout: default
 </dl>
 # Education
 
-### B.S,Computer Science and Technology (Premium Class), Hunan Agricultural University
-2017-2021
+#### B.S,Computer Science and Technology (Premium Class), Hunan Agricultural University 2017-2021
 #### Honors:  
 - Outstanding Graduates of Hunan Province   
 - Excellent graduation thesis of Hunan Agricultural University
@@ -39,12 +38,11 @@ layout: default
 
 # RESEARCH EXPERIENCE
 
-### Yang Jie's Laboratory, School of Medicine, Zhejiang University-2021.07-
+#### Yang Jie's Laboratory, School of Medicine, Zhejiang University-2021.07-
 Working at the intersection of medical and artificial intelligence under the supervision of Prof. Jie Yang, my main research interests are in natural language processing based on medical texts, including work on named entity recognition and embedding of external knowledge sources.
-
-### Research Office of Artificial Intelligence and Intelligent Agriculture, Hunan Agricultural University-2017.09-2021.06
+#### Research Office of Artificial Intelligence and Intelligent Agriculture, Hunan Agricultural University-2017.09-2021.06
 Under the supervision of Prof. Yiming Chen, I am engaged in research related to deep learning and computer vision. My research interests are in computer vision based on deep learning, focusing on classification, detection and segmentation models therein and applying them to document image detection and analysis tasks.
-#### Research Project
+##### Research Project
 *Research and Application of Table Detection Algorithm Based on Transformer-Excellent (Graduation Thesis of Hunan Agricultural University)*
 
 *PDF Text Information Structuring Engine based on Deep Learning*
@@ -56,12 +54,12 @@ Research at the intersection of computer vision and plant science under the supe
 
 # LEADSHIP EXPERIENCE
 
-###  Artificial Intelligence Association of Hunan Agricultural University-2019.06-2020.06
+####  Artificial Intelligence Association of Hunan Agricultural University-2019.06-2020.06
 - Created the Hunan Agricultural University Artificial Intelligence Association and served as the president.
 - Organize bilateral elections for corporate internships to provide employment opportunities for members of the association
 
 # MISCELLANEOUS
-### Certifications:
+#### Certifications:
 * Java Oracle Certified Professional
 * Huawei HCIA-Kunpeng Application Developer
 
