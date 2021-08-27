@@ -27,14 +27,10 @@ layout: default
 #### Scholarships:
 - First-class Scholarships of Hongcheng Science and Technology in 2020
 #### Awards:
-- AIIA Cup in 2019,2020 (China Artificial Intelligence Industry Development Alliance)
-  - *National Winner Award, Hunan Province First Prize*
-- Beidou Cup in 2020 (China Satellite Navigation Annual Conference)
-  - *Central South Division Third Prize* 
-- Lugu Intelligent Navigation Competition in 2019 (Hunan Provincial Department of Education)
-  - *Hunan Province Second Prize*
-- Changsha  Science and Technology Innovation Competition in 2020 (Changsha City Government)
-  - *Undergraduate Group Winner Award*
+- AIIA Cup in 2019,2020 (China Artificial Intelligence Industry Development Alliance)&ensp; *National Winner Award, Hunan Province First Prize*
+- Beidou Cup in 2020 (China Satellite Navigation Annual Conference)&ensp; *Central South Division Third Prize* 
+- Lugu Intelligent Navigation Competition in 2019 (Hunan Provincial Department of Education)&ensp; *Hunan Province Second Prize*
+- Changsha  Science and Technology Innovation Competition in 2020 (Changsha City Government)&ensp; *Undergraduate Group Winner Award*
 
 # RESEARCH EXPERIENCE
 
