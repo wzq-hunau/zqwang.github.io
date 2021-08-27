@@ -16,52 +16,52 @@ layout: default
 </dl>
 # Education
 
-#### B.S,Bachelor of Engineering, Computer Science and Technology (Premium Class), Hunan Agricultural University
+### B.S,Computer Science and Technology (Premium Class), Hunan Agricultural University
 2017-2021
-##### Honors:  
-Outstanding Graduates of Hunan Province   
-Excellent graduation thesis of Hunan Agricultural University
-##### Funds:
-Baidu-Ministry of Education Innovation Venture Fund 2019
-Google-Ministry of Education Innovation Venture Fund 2019
-Hunan Agricultural University Innovation Venture Fund 2018
-##### Scholarships:
-First-class Scholarships of Hongcheng Science and Technology in 2020
-##### Awards:
-AIIA Cup in 2019,2020 (China Artificial Intelligence Industry Development Alliance)
-&nbsp;&nbsp;*National Winner Award, Hunan Province First Prize*
-Beidou Cup in 2020 (China Satellite Navigation Annual Conference)
-&nbsp;&nbsp;*Central South Division Third Prize* 
-Lugu Intelligent Navigation Competition in 2019 (Hunan Provincial Department of Education)
-&nbsp;&nbsp;*Hunan Province Second Prize*
-Changsha  Science and Technology Innovation Competition in 2020 (Changsha City Government)
-&nbsp;&nbsp;*Undergraduate Group Winner Award*
+#### Honors:  
+- Outstanding Graduates of Hunan Province   
+- Excellent graduation thesis of Hunan Agricultural University
+#### Funds:
+- Baidu-Ministry of Education Innovation Venture Fund 2019
+- Google-Ministry of Education Innovation Venture Fund 2019
+- Hunan Agricultural University Innovation Venture Fund 2018
+#### Scholarships:
+- First-class Scholarships of Hongcheng Science and Technology in 2020
+#### Awards:
+- AIIA Cup in 2019,2020 (China Artificial Intelligence Industry Development Alliance)
+  - *National Winner Award, Hunan Province First Prize*
+- Beidou Cup in 2020 (China Satellite Navigation Annual Conference)
+  - *Central South Division Third Prize* 
+- Lugu Intelligent Navigation Competition in 2019 (Hunan Provincial Department of Education)
+  - *Hunan Province Second Prize*
+- Changsha  Science and Technology Innovation Competition in 2020 (Changsha City Government)
+  - *Undergraduate Group Winner Award*
 
 # RESEARCH EXPERIENCE
 
-#### Yang Jie's Laboratory, School of Medicine, Zhejiang University-2021.07-
+### Yang Jie's Laboratory, School of Medicine, Zhejiang University-2021.07-
 Working at the intersection of medical and artificial intelligence under the supervision of Prof. Jie Yang, my main research interests are in natural language processing based on medical texts, including work on named entity recognition and embedding of external knowledge sources.
 
-#### Research Office of Artificial Intelligence and Intelligent Agriculture, Hunan Agricultural University-2017.09-2021.06
+### Research Office of Artificial Intelligence and Intelligent Agriculture, Hunan Agricultural University-2017.09-2021.06
 Under the supervision of Prof. Yiming Chen, I am engaged in research related to deep learning and computer vision. My research interests are in computer vision based on deep learning, focusing on classification, detection and segmentation models therein and applying them to document image detection and analysis tasks.
-##### Research Project
+#### Research Project
 *Research and Application of Table Detection Algorithm Based on Transformer-Excellent (Graduation Thesis of Hunan Agricultural University)*
 
 *PDF Text Information Structuring Engine based on Deep Learning*
 
-#### Xiaoxiang Research Institute of Big Data-2018.09-2020.12
+### Xiaoxiang Research Institute of Big Data-2018.09-2020.12
 Research at the intersection of computer vision and plant science under the supervision of Prof. Jun Xu and Mr. Wukun Yi, focusing on the classification of bamboo species and vine man cross-sectional images and further use of detection and segmentation algorithms to calculate morphological parameters: vascular bundles (water transport channels) and tissue ratios (support cells attached around pipes) in bamboo species.
-##### Research Project
+#### Research Project
 *Recognition and detection of vascular bundles based on deep learning (International Center for Bamboo and Rattan-National Natural Science Foundation of China)*
 
 # LEADSHIP EXPERIENCE
 
-####  Artificial Intelligence Association of Hunan Agricultural University-2019.06-2020.06
+###  Artificial Intelligence Association of Hunan Agricultural University-2019.06-2020.06
 - Created the Hunan Agricultural University Artificial Intelligence Association and served as the president.
 - Organize bilateral elections for corporate internships to provide employment opportunities for members of the association
 
 # MISCELLANEOUS
-#### Certifications:
+### Certifications:
 * Java Oracle Certified Professional
 * Huawei HCIA-Kunpeng Application Developer
 
