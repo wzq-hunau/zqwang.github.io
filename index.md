@@ -16,7 +16,11 @@ layout: default
 </dl>
 # Education
 
-#### B.S,Department of Computer Science and Technology (Premium Class), Hunan Agricultural University 2017-2021
+#### MRes,Department of Computer Science, University of Liverpool (Xi’an Jiaotong-liverpool University) 2022.09-
+
+
+
+#### B.S,Department of Computer Science and Technology (Honor Class), Hunan Agricultural University 2017.09-2021.6
 - **Honors**:   
   - Outstanding Graduates of Hunan Province   
   - Excellent graduation thesis of Hunan Agricultural University
